@@ -7,5 +7,6 @@
   },
   "author": "Lu Xu",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "packageManager": "yarn@4.7.0"
 }
